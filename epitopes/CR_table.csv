@@ -1,0 +1,632 @@
+Vendor,SKU,Preferred_Name,Name,Organism,Align_Score,Align_Score_norm
+Abcam,AB102672,A0A2H4P6E7,P2RY12,Human,100.0,1.0
+Abcam,AB102672,Q546L4,P2ry12,Mouse,92.0,0.76
+Abcam,AB102672,Q8BZV8,P2ry12,Mouse,92.0,0.76
+Abcam,AB102672,Q0IIL0,P2RY12,Bovine,91.0,0.74
+Abcam,AB102672,A0A0G2JGU7,P2ry12,Mouse,90.0,0.71
+Abcam,AB102672,Q703F1,p2RY12,Bovine,90.0,0.71
+Abcam,AB102672,E7F2G6,p2ry12,Zebrafish,66.0,0.0
+Abcam,AB108050,Q5T3E1,USP49,Human,30.0,1.0
+Abcam,AB108050,D3ZJ49,Usp49,Rat,30.0,1.0
+Abcam,AB108050,Q1MTK1,usp49,Zebrafish,30.0,1.0
+Abcam,AB108050,E1BGQ9,USP49,Bovine,30.0,1.0
+Abcam,AB108050,Q8BUQ6,Usp49,Mouse,27.0,0.86
+Abcam,AB108050,D3YZI5,Usp49,Mouse,12.0,0.18
+Abcam,AB108050,H7BZI7,USP49,Human,11.0,0.14
+Abcam,AB108050,F6VK47,Usp49,Mouse,11.0,0.14
+Abcam,AB108050,A6PVU3,USP49,Human,8.0,0.0
+Abcam,AB116145,Q0VA89,RBM15B,Human,10.0,1.0
+Abcam,AB116145,A0A087WPD2,Rbm15b,Mouse,10.0,1.0
+Abcam,AB116145,Q3TRN4,Rbm15b,Mouse,10.0,1.0
+Abcam,AB116145,D3ZHD6,Rbm15b,Rat,10.0,1.0
+Abcam,AB116145,A9JTG8,rbm15b,Zebrafish,10.0,1.0
+Abcam,AB116145,E9QBX7,rbm15b,Zebrafish,10.0,1.0
+Abcam,AB116145,F1QRZ9,rbm15b,Zebrafish,10.0,1.0
+Abcam,AB116145,F6RM04,RBM15B,Bovine,10.0,1.0
+Abcam,AB116145,Q0V8I6,RBM15B,Bovine,10.0,1.0
+Abcam,AB116145,Q3MHV8,RBM15B,Bovine,10.0,1.0
+Abcam,AB116145,L8EAN0,RBM15B,Human,5.0,0.0
+Abcam,AB135356,A0A087WTU5,NOL4L,Human,10.0,1.0
+Abcam,AB135356,A0A087X0N3,NOL4L,Human,10.0,1.0
+Abcam,AB135356,A0A1W2PQU1,NOL4L,Human,10.0,1.0
+Abcam,AB135356,Q5JYC0,NOL4L,Human,10.0,1.0
+Abcam,AB135356,Q5JYC2,NOL4L,Human,10.0,1.0
+Abcam,AB135356,Q5W149,NOL4L,Human,10.0,1.0
+Abcam,AB135356,Q3TPB4,Nol4l,Mouse,10.0,1.0
+Abcam,AB135356,Q3TZG8,Nol4l,Mouse,10.0,1.0
+Abcam,AB135356,Q3UH85,Nol4l,Mouse,10.0,1.0
+Abcam,AB135356,Q52KQ8,Nol4l,Mouse,10.0,1.0
+Abcam,AB135356,Q6AXH3,Nol4l,Mouse,10.0,1.0
+Abcam,AB135356,D3ZHS3,Nol4l,Rat,10.0,1.0
+Abcam,AB135356,F1MPV8,NOL4L,Bovine,10.0,1.0
+Abcam,AB135356,G3MY80,NOL4L,Bovine,10.0,1.0
+Abcam,AB135356,H0Y778,NOL4L,Human,9.0,0.0
+Abcam,AB135356,Q5JYB6,NOL4L,Human,9.0,0.0
+Abcam,AB135757,Q9EQE1,Senp2,Rat,31.0,1.0
+Abcam,AB135757,H7C1A0,SENP2,Human,30.0,0.94
+Abcam,AB135757,E7F9K9,senp2,Zebrafish,30.0,0.94
+Abcam,AB135757,E1BAI5,SENP2,Bovine,30.0,0.94
+Abcam,AB135757,A0A0G2K009,Senp2,Rat,29.0,0.89
+Abcam,AB135757,C9IYB7,SENP2,Human,27.0,0.78
+Abcam,AB135757,I3IT72,senp2,Zebrafish,20.0,0.39
+Abcam,AB135757,F8WED7,SENP2,Human,19.0,0.33
+Abcam,AB135757,F8WET6,SENP2,Human,19.0,0.33
+Abcam,AB135757,F8WCX8,SENP2,Human,14.0,0.06
+Abcam,AB135757,F8WED6,SENP2,Human,13.0,0.0
+Abcam,AB197986,F1MD70,HSD17B8,Bovine,227.0,1.0
+Abcam,AB197986,A0A0G2K6P1,Hsd17b8,Rat,218.0,0.96
+Abcam,AB197986,Q1LWX6,hsd17b8,Zebrafish,167.0,0.72
+Abcam,AB197986,Q561S1,hsd17b8,Zebrafish,167.0,0.72
+Abcam,AB197986,Q8AW16,hsd17b8,Zebrafish,164.0,0.7
+Abcam,AB197986,Q9W7B1,hsd17b8,Zebrafish,128.0,0.53
+Abcam,AB197986,Q5BJM1,Hsd17b8,Rat,84.0,0.33
+Abcam,AB197986,A0A0G2JV82,Hsd17b8,Rat,47.0,0.15
+Abcam,AB197986,I3ISC0,hsd17b8,Zebrafish,34.0,0.09
+Abcam,AB197986,A0A0G2K4V1,Hsd17b8,Rat,15.0,0.0
+Abcam,AB200567,A0A024QZ33,NSRP1,Human,51.0,1.0
+Abcam,AB200567,Q5NCR9,Nsrp1,Mouse,47.0,0.9
+Abcam,AB200567,Q4FZU3,Nsrp1,Rat,47.0,0.9
+Abcam,AB200567,F1MMV5,NSRP1,Bovine,47.0,0.9
+Abcam,AB200567,Q2KIC0,NSRP1,Bovine,47.0,0.9
+Abcam,AB200567,A0PJ67,Nsrp1,Mouse,46.0,0.88
+Abcam,AB200567,F1R8E3,nsrp1,Zebrafish,43.0,0.8
+Abcam,AB200567,Q05AP3,nsrp1,Zebrafish,43.0,0.8
+Abcam,AB200567,Q568R1,nsrp1,Zebrafish,43.0,0.8
+Abcam,AB200567,Q8BQY7,Nsrp1,Mouse,42.0,0.78
+Abcam,AB200567,K7ERM9,NSRP1,Human,29.0,0.46
+Abcam,AB200567,Q3V3D1,Nsrp1,Mouse,25.0,0.37
+Abcam,AB200567,K7EMD8,NSRP1,Human,24.0,0.34
+Abcam,AB200567,J3QRI6,NSRP1,Human,20.0,0.24
+Abcam,AB200567,Q3TSC4,Nsrp1,Mouse,20.0,0.24
+Abcam,AB200567,Q5NCR8,Nsrp1,Mouse,20.0,0.24
+Abcam,AB200567,K7EK40,NSRP1,Human,19.0,0.22
+Abcam,AB200567,J3QLV5,NSRP1,Human,16.0,0.15
+Abcam,AB200567,K7EQJ6,NSRP1,Human,15.0,0.12
+Abcam,AB200567,J3QS82,NSRP1,Human,13.0,0.07
+Abcam,AB200567,J3KT62,NSRP1,Human,12.0,0.05
+Abcam,AB200567,H7BYM1,NSRP1,Human,10.0,0.0
+Abcam,AB68554,A0A0G2JKF9,GABBR1,Human,23.0,1.0
+Abcam,AB68554,A0A140T9S4,GABBR1,Human,23.0,1.0
+Abcam,AB68554,A0A140TA42,GABBR1,Human,23.0,1.0
+Abcam,AB68554,Q5SUJ9,GABBR1,Human,23.0,1.0
+Abcam,AB68554,Q8IW08,GABBR1,Human,23.0,1.0
+Abcam,AB68554,Q8CAF8,Gabbr1,Mouse,23.0,1.0
+Abcam,AB68554,Q6MFX8,Gabbr1,Rat,23.0,1.0
+Abcam,AB68554,Q924M0,Gabbr1,Rat,23.0,1.0
+Abcam,AB68554,A6H7G9,GABBR1,Bovine,23.0,1.0
+Abcam,AB68554,A6QPN0,GABBR1,Bovine,23.0,1.0
+Abcam,AB68554,F1MF15,GABBR1,Bovine,23.0,1.0
+Abcam,AB68554,G3UZ52,Gabbr1,Mouse,20.0,0.81
+Abcam,AB68554,Q5CC43,Gabbr1,Rat,18.0,0.69
+Abcam,AB68554,G3UXR6,Gabbr1,Mouse,17.0,0.62
+Abcam,AB68554,Q3TWR2,Gabbr1,Mouse,17.0,0.62
+Abcam,AB68554,A0A0G2JUQ1,Gabbr1,Rat,17.0,0.62
+Abcam,AB68554,B5D5S8,Gabbr1,Rat,17.0,0.62
+Abcam,AB68554,Q5CC44,Gabbr1,Rat,16.0,0.56
+Abcam,AB68554,C9JZG6,GABBR1,Human,15.0,0.5
+Abcam,AB68554,F8WDC0,GABBR1,Human,15.0,0.5
+Abcam,AB68554,F8WAV2,GABBR1,Human,14.0,0.44
+Abcam,AB68554,C9J342,GABBR1,Human,13.0,0.38
+Abcam,AB68554,F8WAS6,GABBR1,Human,12.0,0.31
+Abcam,AB68554,F8WF38,GABBR1,Human,12.0,0.31
+Abcam,AB68554,Q719L2,Gabbr1,Rat,7.0,0.0
+Abcam,AB6992,Q5M8T4,CTGF,Human,126.0,1.0
+Abcam,AB6992,Q6FHL8,CTGF,Human,126.0,1.0
+Abcam,AB6992,O18739,CTGF,Bovine,125.0,0.99
+Abcam,AB6992,Q6IN11,Ctgf,Rat,65.0,0.34
+Abcam,AB6992,H3BJW0,Ctgf,Mouse,64.0,0.33
+Abcam,AB6992,Q9R2C0,CTGF,Rat,44.0,0.11
+Abcam,AB6992,H3BK14,Ctgf,Mouse,34.0,0.0
+Abcam,AB94603,A0A024RD25,PIM1,Human,10.0,1.0
+Abcam,AB94603,Q3TYQ0,Pim1,Mouse,10.0,1.0
+Abcam,AB94603,Q8CFN8,Pim1,Mouse,10.0,1.0
+Abcam,AB94603,Q08BC0,pim1,Zebrafish,10.0,1.0
+Abcam,AB94603,Q9N0P9,PIM1,Bovine,10.0,1.0
+Abcam,AB94603,Q3U4N9,Pim1,Mouse,9.0,0.83
+Abcam,AB94603,A0A0R4ISY2,pim1,Zebrafish,9.0,0.83
+Abcam,AB94603,O77626,PIM1,Bovine,4.0,0.0
+Abgent,AP11705C,Q3TXR4,Junb,Mouse,28.0,1.0
+Abgent,AP11705C,Q3U2Y0,Junb,Mouse,28.0,1.0
+Abgent,AP11705C,Q569U6,Junb,Mouse,28.0,1.0
+Abgent,AP11705C,A0A0G2JSY8,Junb,Rat,28.0,1.0
+Abgent,AP11705C,Q0VBZ5,JUNB,Bovine,28.0,1.0
+Abgent,AP11705C,Q6IBG3,JUNB,Human,25.0,0.73
+Abgent,AP11705C,Q3U0S8,Junb,Mouse,17.0,0.0
+Abgent,AP14658B,P97302,Bach1,Mouse,29.0,1.0
+Abgent,AP14658B,Q3URL4,Bach1,Mouse,29.0,1.0
+Abgent,AP14658B,Q3US24,Bach1,Mouse,29.0,1.0
+Abgent,AP14658B,Q3US63,Bach1,Mouse,29.0,1.0
+Abgent,AP14658B,D4ACD2,Bach1,Rat,29.0,1.0
+Abgent,AP14658B,E1BJL3,BACH1,Bovine,29.0,1.0
+Abgent,AP14658B,H7C4B6,BACH1,Human,26.0,0.86
+Abgent,AP14658B,C9IYR0,BACH1,Human,23.0,0.71
+Abgent,AP14658B,C9JMP6,BACH1,Human,23.0,0.71
+Abgent,AP14658B,M0QZP0,BACH1,Human,21.0,0.62
+Abgent,AP14658B,C9IYH8,BACH1,Human,20.0,0.57
+Abgent,AP14658B,F8VZL7,BACH1,Human,8.0,0.0
+Abgent,AP14658B,Q9BXM4,BACH1,Human,8.0,0.0
+Abgent,AP6876A,A0A1B0GUN9,ESPN,Human,29.0,1.0
+Abgent,AP6876A,A0A140LJB0,Espn,Mouse,29.0,1.0
+Abgent,AP6876A,B1AWQ1,Espn,Mouse,29.0,1.0
+Abgent,AP6876A,B1AWQ3,Espn,Mouse,29.0,1.0
+Abgent,AP6876A,B1AWQ4,Espn,Mouse,29.0,1.0
+Abgent,AP6876A,Q9ET47,Espn,Mouse,29.0,1.0
+Abgent,AP6876A,F1LQ34,Espn,Rat,29.0,1.0
+Abgent,AP6876A,B0S4T8,espn,Zebrafish,29.0,1.0
+Abgent,AP6876A,B0S4T9,espn,Zebrafish,29.0,1.0
+Abgent,AP6876A,E9QCM0,espn,Zebrafish,29.0,1.0
+Abgent,AP6876A,E1BHC8,ESPN,Bovine,29.0,1.0
+Abgent,AP6876A,B1AWP8,Espn,Mouse,28.0,0.94
+Abgent,AP6876A,B1AWQ0,Espn,Mouse,28.0,0.94
+Abgent,AP6876A,B1AWP7,Espn,Mouse,27.0,0.89
+Abgent,AP6876A,B1AWP9,Espn,Mouse,27.0,0.89
+Abgent,AP6876A,Q5JYL1,ESPN,Human,26.0,0.83
+Abgent,AP6876A,A0A0A0MSQ4,ESPN,Human,25.0,0.78
+Abgent,AP6876A,A0A0J9YWQ8,ESPN,Human,25.0,0.78
+Abgent,AP6876A,Q3UM31,Espn,Mouse,24.0,0.72
+Abgent,AP6876A,A0A1B0GUS9,ESPN,Human,23.0,0.67
+Abgent,AP6876A,Q9DD12,Espn,Mouse,23.0,0.67
+Abgent,AP6876A,A0A0J9YY76,ESPN,Human,22.0,0.61
+Abgent,AP6876A,H0Y7L4,ESPN,Human,22.0,0.61
+Abgent,AP6876A,Q9WUH6,Espn,Mouse,17.0,0.33
+Abgent,AP6876A,A0A0J9YW00,ESPN,Human,15.0,0.22
+Abgent,AP6876A,K7EMB7,ESPN,Human,11.0,0.0
+Abnova,H00000637-M03,Q05KI6,BID,Bovine,122.0,1.0
+Abnova,H00000637-M03,Q17QH5,BID,Bovine,122.0,1.0
+Abnova,H00000637-M03,Q05KI5,BID,Bovine,97.0,0.0
+Abnova,H00001163-B01P,Q0P5A5,CKS1B,Bovine,79.0,
+Abnova,H00007158-M01,E1BDS6,TP53BP1,Bovine,109.0,1.0
+Abnova,H00007158-M01,A6QQJ1,TP53BP1,Bovine,108.0,0.0
+Abnova,H00009136-M01A,F1MRM3,RRP9,Bovine,444.0,1.0
+Abnova,H00009136-M01A,A6QLJ7,RRP9,Bovine,443.0,0.0
+Abnova,H00083890-B01P,Q3T021,SPATA9,Bovine,228.0,1.0
+Abnova,H00083890-B01P,A0A286YDA1,Spata9,Mouse,84.0,0.0
+Abnova,PAB23135,F6QV99,ATAD1,Bovine,76.0,
+Abnova,PAB23135,Z4YH78,ATAD1,Bovine,76.0,
+Abnova,PAB6876,G5E6R9,CNR1,Bovine,15.0,
+Biomatik,CAE03561,A6XGL2,INS,Human,12.0,1.0
+Biomatik,CAE03561,C9JNR5,INS,Human,12.0,1.0
+Biomatik,CAE03561,I3WAC9,INS,Human,12.0,1.0
+Biomatik,CAE03561,F6MZK5,INS,Human,11.0,0.5
+Biomatik,CAE03561,B2GSI0,ins,Zebrafish,10.0,0.0
+Biomatik,CAE03561,Q9DDE5,ins,Zebrafish,10.0,0.0
+Biomatik,CAE03561,A5PJB2,INS,Bovine,10.0,0.0
+Biomatik,CAE03561,P01317,INS,Bovine,10.0,0.0
+Biomatik,CAE03820,B5MCW2,RPL3,Human,14.0,1.0
+Biomatik,CAE03820,G5E9G0,RPL3,Human,14.0,1.0
+Biomatik,CAE03820,P39023,RPL3,Human,14.0,1.0
+Biomatik,CAE03820,Q96QL0,RPL3,Human,14.0,1.0
+Biomatik,CAE03820,Q9NY85,rpl3,Human,14.0,1.0
+Biomatik,CAE03820,P27659,Rpl3,Mouse,14.0,1.0
+Biomatik,CAE03820,Q3T9U9,Rpl3,Mouse,14.0,1.0
+Biomatik,CAE03820,Q3U9L3,Rpl3,Mouse,14.0,1.0
+Biomatik,CAE03820,Q3UB15,Rpl3,Mouse,14.0,1.0
+Biomatik,CAE03820,Q3UB67,Rpl3,Mouse,14.0,1.0
+Biomatik,CAE03820,Q3UB90,Rpl3,Mouse,14.0,1.0
+Biomatik,CAE03820,P21531,Rpl3,Rat,14.0,1.0
+Biomatik,CAE03820,Q5BJJ2,rpl3,Zebrafish,14.0,1.0
+Biomatik,CAE03820,Q6Q418,rpl3,Zebrafish,14.0,1.0
+Biomatik,CAE03820,F1N1W1,RP1,Bovine,14.0,1.0
+Biomatik,CAE03820,Q8MJ05,RP1,Bovine,14.0,1.0
+Biomatik,CAE03820,B1H0W8,Rpl3,Bovine,14.0,1.0
+Biomatik,CAE03820,P39872,RPL3,Bovine,14.0,1.0
+Biomatik,CAE03820,H7C3M2,RPL3,Human,13.0,0.9
+Biomatik,CAE03820,H7C422,RPL3,Human,13.0,0.9
+Biomatik,CAE03820,Q9BT63,RPL3,Human,13.0,0.9
+Biomatik,CAE03820,F1QBR2,rpl3,Zebrafish,13.0,0.9
+Biomatik,CAE03820,Q49AJ9,RPL3,Human,12.0,0.8
+Biomatik,CAE03820,A0A087WQK0,Rpl3,Mouse,11.0,0.7
+Biomatik,CAE03820,A0A0U1RRY5,Rpl3,Rat,10.0,0.6
+Biomatik,CAE03820,B4DN06,RPL3,Human,9.0,0.5
+Biomatik,CAE03820,F8WCR1,RPL3,Human,9.0,0.5
+Biomatik,CAE03820,A0A087WNS0,Rpl3,Mouse,9.0,0.5
+Biomatik,CAE03820,A0A0U1RRR9,Rpl3,Rat,4.0,0.0
+Creative Diagnostics,DPABH-04597,O00559,EBAG9,Human,12.0,1.0
+Creative Diagnostics,DPABH-04597,Q9D0V7,Ebag9,Mouse,12.0,1.0
+Creative Diagnostics,DPABH-04597,Q5PQP2,Ebag9,Rat,12.0,1.0
+Creative Diagnostics,DPABH-04597,Q0P578,EBAG9,Bovine,12.0,1.0
+Creative Diagnostics,DPABH-04597,E9PN10,EBAG9,Human,11.0,0.83
+Creative Diagnostics,DPABH-04597,F1QVH3,ebag9,Zebrafish,11.0,0.83
+Creative Diagnostics,DPABH-04597,Q7ZWA8,ebag9,Zebrafish,11.0,0.83
+Creative Diagnostics,DPABH-04597,E9PND3,EBAG9,Human,10.0,0.67
+Creative Diagnostics,DPABH-04597,A0A2I3BPQ0,Ebag9,Mouse,9.0,0.5
+Creative Diagnostics,DPABH-04597,E9PJ38,EBAG9,Human,8.0,0.33
+Creative Diagnostics,DPABH-04597,E9PJ40,EBAG9,Human,6.0,0.0
+Creative Diagnostics,DPABH-09634,F5GYR0,ABLIM2,Human,236.0,1.0
+Creative Diagnostics,DPABH-09634,Q19VH1,ABLIM2,Human,236.0,1.0
+Creative Diagnostics,DPABH-09634,E9Q4K0,Ablim2,Mouse,221.0,0.93
+Creative Diagnostics,DPABH-09634,Q19VH2,Ablim2,Mouse,221.0,0.93
+Creative Diagnostics,DPABH-09634,Q8BL65,Ablim2,Mouse,221.0,0.93
+Creative Diagnostics,DPABH-09634,A0A0G2JXC7,Ablim2,Rat,221.0,0.93
+Creative Diagnostics,DPABH-09634,A0A0H2UHF9,Ablim2,Rat,221.0,0.93
+Creative Diagnostics,DPABH-09634,A0A140TAH7,Ablim2,Rat,221.0,0.93
+Creative Diagnostics,DPABH-09634,Q6KC51,Ablim2,Rat,221.0,0.93
+Creative Diagnostics,DPABH-09634,E9Q0W6,Ablim2,Mouse,220.0,0.92
+Creative Diagnostics,DPABH-09634,Q3U409,Ablim2,Mouse,220.0,0.92
+Creative Diagnostics,DPABH-09634,A0A0G2JTB5,Ablim2,Rat,220.0,0.92
+Creative Diagnostics,DPABH-09634,F1N6Q2,ABLIM2,Bovine,219.0,0.92
+Creative Diagnostics,DPABH-09634,U3JA30,ablim2,Zebrafish,188.0,0.77
+Creative Diagnostics,DPABH-09634,E7F030,ablim2,Zebrafish,186.0,0.76
+Creative Diagnostics,DPABH-09634,D3Z0Y4,Ablim2,Mouse,95.0,0.33
+Creative Diagnostics,DPABH-09634,D6RAL0,ABLIM2,Human,92.0,0.31
+Creative Diagnostics,DPABH-09634,D3YYR9,Ablim2,Mouse,82.0,0.27
+Creative Diagnostics,DPABH-09634,F6VVW4,Ablim2,Mouse,81.0,0.26
+Creative Diagnostics,DPABH-09634,F7A5C5,Ablim2,Mouse,74.0,0.23
+Creative Diagnostics,DPABH-09634,F6UI99,Ablim2,Mouse,69.0,0.2
+Creative Diagnostics,DPABH-09634,Q8BKD1,Ablim2,Mouse,66.0,0.19
+Creative Diagnostics,DPABH-09634,F6W6N3,Ablim2,Mouse,54.0,0.13
+Creative Diagnostics,DPABH-09634,Q4W5G4,ABLIM2,Human,34.0,0.04
+Creative Diagnostics,DPABH-09634,A0A0J9YUE1,Ablim2,Mouse,26.0,0.0
+Creative Diagnostics,DPABH-10874,Q2KHW8,GEMIN6,Bovine,45.0,1.0
+Creative Diagnostics,DPABH-10874,Q9CX53,Gemin6,Mouse,42.0,0.88
+Creative Diagnostics,DPABH-10874,G3V972,Gemin6,Rat,42.0,0.88
+Creative Diagnostics,DPABH-10874,Q5JCM4,Gemin6,Rat,41.0,0.84
+Creative Diagnostics,DPABH-10874,A0A140LG88,gemin6,Zebrafish,30.0,0.4
+Creative Diagnostics,DPABH-10874,B8ZZ85,GEMIN6,Human,23.0,0.12
+Creative Diagnostics,DPABH-10874,B9A037,GEMIN6,Human,20.0,0.0
+Creative Diagnostics,DPABH-17168,Q53XC0,EIF2S1,Human,49.0,1.0
+Creative Diagnostics,DPABH-17168,Q6ZWX6,Eif2s1,Mouse,48.0,0.93
+Creative Diagnostics,DPABH-17168,Q9CV24,Eif2s1,Mouse,48.0,0.93
+Creative Diagnostics,DPABH-17168,P68101,Eif2s1,Rat,48.0,0.93
+Creative Diagnostics,DPABH-17168,P68102,EIF2S1,Bovine,48.0,0.93
+Creative Diagnostics,DPABH-17168,G3V4T5,EIF2S1,Human,36.0,0.13
+Creative Diagnostics,DPABH-17168,H0YJS4,EIF2S1,Human,34.0,0.0
+Creative Diagnostics,DPABH-17228,A0A0A6YYF7,CCDC141,Human,111.0,1.0
+Creative Diagnostics,DPABH-17228,E7ERF0,CCDC141,Human,111.0,1.0
+Creative Diagnostics,DPABH-17228,B0S755,ccdc141,Zebrafish,108.0,0.96
+Creative Diagnostics,DPABH-17228,E7FG99,ccdc141,Zebrafish,108.0,0.96
+Creative Diagnostics,DPABH-17228,F1MHQ9,CCDC141,Bovine,106.0,0.94
+Creative Diagnostics,DPABH-17228,E9Q8Q6,Ccdc141,Mouse,104.0,0.91
+Creative Diagnostics,DPABH-17228,A2AST1,Ccdc141,Mouse,103.0,0.9
+Creative Diagnostics,DPABH-17228,D3ZEY0,Ccdc141,Rat,103.0,0.9
+Creative Diagnostics,DPABH-17228,Q2VPJ5,CCDC141,Human,92.0,0.76
+Creative Diagnostics,DPABH-17228,Q8BLD3,Ccdc141,Mouse,89.0,0.72
+Creative Diagnostics,DPABH-17228,B8ZZB3,CCDC141,Human,88.0,0.71
+Creative Diagnostics,DPABH-17228,Q8BLW1,Ccdc141,Mouse,88.0,0.71
+Creative Diagnostics,DPABH-17228,C9JR62,CCDC141,Human,85.0,0.68
+Creative Diagnostics,DPABH-17228,Q9D003,Ccdc141,Mouse,74.0,0.54
+Creative Diagnostics,DPABH-17228,J3QNK9,Ccdc141,Mouse,46.0,0.19
+Creative Diagnostics,DPABH-17228,F1QLY0,ccdc141,Zebrafish,46.0,0.19
+Creative Diagnostics,DPABH-17228,J3QN68,Ccdc141,Mouse,42.0,0.14
+Creative Diagnostics,DPABH-17228,Q8BUK9,Ccdc141,Mouse,41.0,0.12
+Creative Diagnostics,DPABH-17228,A2AK24,Ccdc141,Mouse,37.0,0.08
+Creative Diagnostics,DPABH-17228,D6RJ38,Ccdc141,Mouse,31.0,0.0
+Creative Diagnostics,DPABH-18755,A0A024R9V8,KLHL5,Human,48.0,1.0
+Creative Diagnostics,DPABH-18755,Q96PQ7,KLHL5,Human,48.0,1.0
+Creative Diagnostics,DPABH-18755,Q6PFE1,Klhl5,Mouse,48.0,1.0
+Creative Diagnostics,DPABH-18755,Q1EG90,Klhl5,Rat,48.0,1.0
+Creative Diagnostics,DPABH-18755,B8JIG8,klhl5,Zebrafish,48.0,1.0
+Creative Diagnostics,DPABH-18755,F1N098,KLHL5,Bovine,48.0,1.0
+Creative Diagnostics,DPABH-18755,E9QA66,Klhl5,Mouse,47.0,0.97
+Creative Diagnostics,DPABH-18755,Q571J4,Klhl5,Mouse,46.0,0.94
+Creative Diagnostics,DPABH-18755,E9Q1L2,Klhl5,Mouse,45.0,0.91
+Creative Diagnostics,DPABH-18755,Q6PD75,KLHL5,Human,42.0,0.83
+Creative Diagnostics,DPABH-18755,H0Y9Y5,KLHL5,Human,40.0,0.77
+Creative Diagnostics,DPABH-18755,Q642I3,KLHL5,Human,40.0,0.77
+Creative Diagnostics,DPABH-18755,Q4FZT3,Klhl5,Rat,39.0,0.74
+Creative Diagnostics,DPABH-18755,A0A0G2JEQ1,Klhl5,Mouse,38.0,0.71
+Creative Diagnostics,DPABH-18755,Q8R334,Klhl5,Mouse,36.0,0.66
+Creative Diagnostics,DPABH-18755,Q8BTI0,Klhl5,Mouse,34.0,0.6
+Creative Diagnostics,DPABH-18755,L8E8A1,KLHL5,Human,14.0,0.03
+Creative Diagnostics,DPABH-18755,H0YAF6,KLHL5,Human,13.0,0.0
+Creative Diagnostics,DPABH-20157,B2RUT8,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20157,B7ZVZ7,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20157,X5D2B6,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20157,X5D2C1,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20157,X5D795,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20157,X5D7A4,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20157,X5D7U3,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20157,X5D8U9,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20157,X5D8V5,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20157,X5DND4,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20157,X5DNE0,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20157,X5DP92,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20157,X5DQQ3,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20157,X5DQR1,BZRAP1,Human,109.0,
+Creative Diagnostics,DPABH-20877,E1BD74,WHAMM,Bovine,78.0,1.0
+Creative Diagnostics,DPABH-20877,Q571B6,Whamm,Mouse,75.0,0.9
+Creative Diagnostics,DPABH-20877,D3ZKN4,Whamm,Rat,74.0,0.87
+Creative Diagnostics,DPABH-20877,A0A140LI61,Whamm,Mouse,48.0,0.0
+Creative Diagnostics,DPABH-21858,A0A0A0MSF7,ZNF441,Human,11.0,
+Creative Diagnostics,DPABH-23074,F1MBT2,LINGO1,Bovine,223.0,1.0
+Creative Diagnostics,DPABH-23074,A9DA50,Lingo1,Mouse,222.0,1.0
+Creative Diagnostics,DPABH-23074,Q9D1T0,Lingo1,Mouse,222.0,1.0
+Creative Diagnostics,DPABH-23074,G3V881,Lingo1,Rat,222.0,1.0
+Creative Diagnostics,DPABH-23074,Q562A6,Lingo1,Rat,222.0,1.0
+Creative Diagnostics,DPABH-23074,H0YMX3,LINGO1,Human,96.0,0.4
+Creative Diagnostics,DPABH-23074,H3BQ49,LINGO1,Human,71.0,0.29
+Creative Diagnostics,DPABH-23074,H3BMN3,LINGO1,Human,59.0,0.23
+Creative Diagnostics,DPABH-23074,H3BN48,LINGO1,Human,41.0,0.15
+Creative Diagnostics,DPABH-23074,H0YNK7,LINGO1,Human,35.0,0.12
+Creative Diagnostics,DPABH-23074,H3BM59,LINGO1,Human,26.0,0.08
+Creative Diagnostics,DPABH-23074,H3BMW2,LINGO1,Human,15.0,0.02
+Creative Diagnostics,DPABH-23074,H3BS32,LINGO1,Human,10.0,0.0
+Creative Diagnostics,DPABH-28907,P52815,MRPL12,Human,50.0,1.0
+Creative Diagnostics,DPABH-28907,Q9DB15,Mrpl12,Mouse,50.0,1.0
+Creative Diagnostics,DPABH-28907,A5PJ86,MRPL12,Bovine,49.0,0.88
+Creative Diagnostics,DPABH-28907,Q7YR75,MRPL12,Bovine,49.0,0.88
+Creative Diagnostics,DPABH-28907,Q566V8,mrpl12,Zebrafish,42.0,0.0
+Creative Diagnostics,DPABH-28907,X1WHQ5,mrpl12,Zebrafish,42.0,0.0
+Novus Biologicals,AF2537,Q3SX06,MYOC,Bovine,393.0,1.0
+Novus Biologicals,AF2537,Q9XTA3,MYOC,Bovine,391.0,0.0
+Novus Biologicals,AF2587,E1B8X9,SLITRK5,Bovine,592.0,1.0
+Novus Biologicals,AF2587,A0A2I3BQY9,Slitrk5,Mouse,115.0,0.0
+Novus Biologicals,BAF378,F1MPD0,NRG1,Bovine,217.0,1.0
+Novus Biologicals,BAF378,Q07112,NRG1,Bovine,137.0,0.31
+Novus Biologicals,BAF378,A3KN34,NRG1,Bovine,101.0,0.0
+Novus Biologicals,H00000740-B01P,F1MQ25,MRPL49,Bovine,150.0,1.0
+Novus Biologicals,H00000740-B01P,Q5EA71,MRPL49,Bovine,149.0,0.86
+Novus Biologicals,H00000740-B01P,Q0V8N7,MRPL49,Bovine,145.0,0.29
+Novus Biologicals,H00000740-B01P,Q0V8Q5,MRPL49,Bovine,143.0,0.0
+Novus Biologicals,H00001386-M15,F1N177,ATF2,Bovine,99.0,1.0
+Novus Biologicals,H00001386-M15,A2VDL1,ATF2,Bovine,59.0,0.0
+Novus Biologicals,H00005716-M01V2,Q2KI59,PSMD10,Bovine,43.0,
+Novus Biologicals,H00006850-B01P,Q32PK0,SYK,Bovine,567.0,
+Novus Biologicals,H00008602-B01P,A5PKD1,NOP14,Bovine,624.0,
+Novus Biologicals,H00008724-M10,Q1RMH8,SNX3,Bovine,99.0,
+Novus Biologicals,H00009463-A01,F1N6J2,PICK1,Bovine,107.0,1.0
+Novus Biologicals,H00009463-A01,Q2T9M1,PICK1,Bovine,105.0,0.95
+Novus Biologicals,H00009463-A01,F1MU52,PICK1,Bovine,66.0,0.0
+Novus Biologicals,H00011335-M01IR,A6H7C4,CBX3,Bovine,183.0,1.0
+Novus Biologicals,H00011335-M01IR,F1N1S3,CBX3,Bovine,170.0,0.0
+Novus Biologicals,H00085397-B01,E1B7H3,RGS8,Bovine,176.0,
+Novus Biologicals,H00085397-B01,G3MX08,RGS8,Bovine,176.0,
+Novus Biologicals,H00146225-B01P,Q32LC5,CMTM2,Bovine,153.0,
+Novus Biologicals,H00169841-A01,F1ML18,ZNF169,Bovine,77.0,
+Novus Biologicals,MAB1549,Q2YDK6,DKKL1,Bovine,180.0,1.0
+Novus Biologicals,MAB1549,P01888,B2M,Bovine,66.0,0.18
+Novus Biologicals,MAB1549,Q6VUQ8,B2M,Bovine,41.0,0.0
+Novus Biologicals,MAB7940,E1BF52,GFER,Bovine,85.0,
+Novus Biologicals,MAB81751,E1BG25,MELTF,Bovine,634.0,1.0
+Novus Biologicals,MAB81751,D4ADK7,Meltf,Rat,598.0,0.94
+Novus Biologicals,MAB81751,Q544J8,Meltf,Mouse,593.0,0.93
+Novus Biologicals,MAB81751,Q9R0R1,Meltf,Mouse,593.0,0.93
+Novus Biologicals,MAB81751,Q3URX8,Gemin4,Mouse,312.0,0.48
+Novus Biologicals,MAB81751,Q6P6L6,Gemin4,Mouse,312.0,0.48
+Novus Biologicals,MAB81751,Q8K1K1,Gemin4,Mouse,312.0,0.48
+Novus Biologicals,MAB81751,F1LWL5,Gemin4,Rat,312.0,0.48
+Novus Biologicals,MAB81751,F1MAW0,GEMIN4,Bovine,312.0,0.48
+Novus Biologicals,MAB81751,A1L545,GEMIN4,Bovine,311.0,0.47
+Novus Biologicals,MAB81751,Q503T2,gemin4,Zebrafish,310.0,0.47
+Novus Biologicals,MAB81751,I3L2C7,GEMIN4,Human,308.0,0.47
+Novus Biologicals,MAB81751,Q8WUM5,GEMIN4,Human,308.0,0.47
+Novus Biologicals,MAB81751,F1R759,gemin4,Zebrafish,308.0,0.47
+Novus Biologicals,MAB81751,A0JNY7,Eif4g2,Mouse,279.0,0.42
+Novus Biologicals,MAB81751,Q95L46,EIF4G2,Bovine,279.0,0.42
+Novus Biologicals,MAB81751,D3DQV9,EIF4G2,Human,278.0,0.42
+Novus Biologicals,MAB81751,G3XA17,Eif4g2,Mouse,278.0,0.42
+Novus Biologicals,MAB81751,F1LN59,Eif4g2,Rat,278.0,0.42
+Novus Biologicals,MAB81751,F2Z4C6,EIF4G2,Bovine,278.0,0.42
+Novus Biologicals,MAB81751,H0Y3P2,EIF4G2,Human,273.0,0.41
+Novus Biologicals,MAB81751,F7CBP1,Eif4g2,Mouse,272.0,0.41
+Novus Biologicals,MAB81751,A8KBK7,gemin4,Zebrafish,272.0,0.41
+Novus Biologicals,MAB81751,F1QNU9,gemin4,Zebrafish,271.0,0.41
+Novus Biologicals,MAB81751,Q3U9U9,Eif4g2,Mouse,216.0,0.32
+Novus Biologicals,MAB81751,H0YCH5,EIF4G2,Human,202.0,0.3
+Novus Biologicals,MAB81751,Q5BJU2,Eif4g2,Rat,194.0,0.28
+Novus Biologicals,MAB81751,Q1RP76,Eif4g2,Rat,190.0,0.28
+Novus Biologicals,MAB81751,Q3URI0,Eif4g2,Mouse,163.0,0.23
+Novus Biologicals,MAB81751,I3L399,GEMIN4,Human,159.0,0.23
+Novus Biologicals,MAB81751,H0YD77,EIF4G2,Human,151.0,0.21
+Novus Biologicals,MAB81751,I3L4A4,GEMIN4,Human,148.0,0.21
+Novus Biologicals,MAB81751,H0YEC5,EIF4G2,Human,139.0,0.2
+Novus Biologicals,MAB81751,H0YE22,EIF4G2,Human,138.0,0.19
+Novus Biologicals,MAB81751,I3L4M4,GEMIN4,Human,121.0,0.17
+Novus Biologicals,MAB81751,E9PKF8,EIF4G2,Human,120.0,0.16
+Novus Biologicals,MAB81751,E7EN12,GEMIN4,Human,117.0,0.16
+Novus Biologicals,MAB81751,F6TW20,Eif4g2,Mouse,112.0,0.15
+Novus Biologicals,MAB81751,F6UU81,Eif4g2,Mouse,105.0,0.14
+Novus Biologicals,MAB81751,H0YCF8,EIF4G2,Human,98.0,0.13
+Novus Biologicals,MAB81751,H0YDC0,EIF4G2,Human,90.0,0.12
+Novus Biologicals,MAB81751,H0YEN8,EIF4G2,Human,87.0,0.11
+Novus Biologicals,MAB81751,F7DAB1,Eif4g2,Mouse,83.0,0.1
+Novus Biologicals,MAB81751,H0YE44,EIF4G2,Human,75.0,0.09
+Novus Biologicals,MAB81751,H0YD99,EIF4G2,Human,72.0,0.09
+Novus Biologicals,MAB81751,H0YEI7,EIF4G2,Human,72.0,0.09
+Novus Biologicals,MAB81751,I3L1J7,GEMIN4,Human,61.0,0.07
+Novus Biologicals,MAB81751,H0YE87,EIF4G2,Human,44.0,0.04
+Novus Biologicals,MAB81751,F7CHS2,Eif4g2,Mouse,29.0,0.02
+Novus Biologicals,MAB81751,H0YEW3,EIF4G2,Human,19.0,0.0
+Novus Biologicals,NB100-527V,F1MDD9,FLT1,Bovine,99.0,
+Novus Biologicals,NB110-55376H,G3MX91,TARDBP,Bovine,63.0,1.0
+Novus Biologicals,NB110-55376H,Q2KJ45,TARDBP,Bovine,40.0,0.0
+Novus Biologicals,NBP1-49429IR,Q0VD00,KCTD15,Bovine,215.0,
+Novus Biologicals,NBP1-51961,F1N7G3,WNT9B,Bovine,13.0,
+Novus Biologicals,NBP1-56342,F1MYZ1,TMPRSS3,Bovine,49.0,
+Novus Biologicals,NBP1-58296,A6H730,ACPP,Bovine,48.0,
+Novus Biologicals,NBP1-59368,A7MBA9,PSEN1,Bovine,49.0,
+Novus Biologicals,NBP1-59368,Q9XT97,PSEN1,Bovine,49.0,
+Novus Biologicals,NBP1-69102,E1BG80,NCKIPSD,Bovine,50.0,
+Novus Biologicals,NBP1-82414,E1B7R5,ARPP21,Bovine,49.0,1.0
+Novus Biologicals,NBP1-82414,Q7M2N1,ARPP21,Bovine,48.0,0.8
+Novus Biologicals,NBP1-82414,F1MLD2,ARPP21,Bovine,44.0,0.0
+Novus Biologicals,NBP1-91271AF700,A7Z030,ZNF521,Bovine,101.0,
+Novus Biologicals,NBP1-91271AF700,F1N5E2,ZNF521,Bovine,101.0,
+Novus Biologicals,NBP1-94183,F1MC21,PNLIPRP3,Bovine,61.0,
+Novus Biologicals,NBP2-22383,G3X7G0,CRLF2,Bovine,82.0,
+Novus Biologicals,NBP2-24604,E1BH14,LEFTY2,Bovine,18.0,
+Novus Biologicals,NBP2-30786,E1BFA3,OR8K1,Bovine,20.0,
+Novus Biologicals,NBP2-34623,G3N3Q9,TFF1,Bovine,19.0,
+Novus Biologicals,NBP2-38817,E1BHS7,RASL10B,Bovine,53.0,
+R&D Systems,AF1024-SP,Q17QA1,CCL4,Bovine,44.0,
+R&D Systems,AF6968,P02192,MB,Bovine,79.0,1.0
+R&D Systems,AF6968,Q31109,H2-DMb1,Mouse,57.0,0.29
+R&D Systems,AF6968,Q31110,H2-DMb1,Mouse,57.0,0.29
+R&D Systems,AF6968,Q31111,H2-DMb1,Mouse,57.0,0.29
+R&D Systems,AF6968,Q31606,H2-DMb1,Mouse,57.0,0.29
+R&D Systems,AF6968,Q31622,H2-DMb1,Mouse,57.0,0.29
+R&D Systems,AF6968,Q31630,H2-DMb1,Mouse,57.0,0.29
+R&D Systems,AF6968,Q31631,H2-DMb1,Mouse,57.0,0.29
+R&D Systems,AF6968,Q3TC77,H2-DMb1,Mouse,57.0,0.29
+R&D Systems,AF6968,Q3TDW0,H2-DMb1,Mouse,57.0,0.29
+R&D Systems,AF6968,Q9BCZ2,H2-DMb1,Mouse,57.0,0.29
+R&D Systems,AF6968,Q31094,H2-DMb1,Mouse,56.0,0.26
+R&D Systems,AF6968,Q31128,H2-DMb1,Mouse,56.0,0.26
+R&D Systems,AF6968,P40293,CD79A,Bovine,50.0,0.06
+R&D Systems,AF6968,Q31095,H2-DMb1,Mouse,49.0,0.03
+R&D Systems,AF6968,Q31097,H2-DMb1,Mouse,49.0,0.03
+R&D Systems,AF6968,Q7JFR1,H2-DMb1,Mouse,48.0,0.0
+R&D Systems,MAB2339-500,P30931,F3,Bovine,122.0,
+R&D Systems,MAB685-500,A0A286Y9G6,fgfr4,Zebrafish,280.0,1.0
+R&D Systems,MAB685-500,F1MN51,FGFR4,Bovine,272.0,0.0
+Santa Cruz Biotechnology,sc-133225,K7EJL4,HDAC5,Human,73.0,1.0
+Santa Cruz Biotechnology,sc-133225,A2AWS5,Hdac5,Mouse,73.0,1.0
+Santa Cruz Biotechnology,sc-133225,B7ZDF5,Hdac5,Mouse,73.0,1.0
+Santa Cruz Biotechnology,sc-133225,B7ZDF7,Hdac5,Mouse,73.0,1.0
+Santa Cruz Biotechnology,sc-133225,Q3U2E0,Hdac5,Mouse,73.0,1.0
+Santa Cruz Biotechnology,sc-133225,Q3UJF1,Hdac5,Mouse,73.0,1.0
+Santa Cruz Biotechnology,sc-133225,Q6P9T4,Hdac5,Mouse,73.0,1.0
+Santa Cruz Biotechnology,sc-133225,Q80TW3,Hdac5,Mouse,73.0,1.0
+Santa Cruz Biotechnology,sc-133225,F1LM64,Hdac5,Rat,73.0,1.0
+Santa Cruz Biotechnology,sc-133225,E7FH14,hdac5,Zebrafish,73.0,1.0
+Santa Cruz Biotechnology,sc-133225,X1WED5,hdac5,Zebrafish,73.0,1.0
+Santa Cruz Biotechnology,sc-133225,F1MNA5,HDAC5,Bovine,73.0,1.0
+Santa Cruz Biotechnology,sc-133225,F6QMU7,HDAC5,Bovine,72.0,0.98
+Santa Cruz Biotechnology,sc-133225,Q2T9N9,HDAC5,Bovine,72.0,0.98
+Santa Cruz Biotechnology,sc-133225,Q5RJZ2,Hdac5,Rat,49.0,0.56
+Santa Cruz Biotechnology,sc-133225,Q3TSM2,Hdac5,Mouse,45.0,0.49
+Santa Cruz Biotechnology,sc-133225,B7ZDF4,Hdac5,Mouse,40.0,0.4
+Santa Cruz Biotechnology,sc-133225,B7ZDF3,Hdac5,Mouse,38.0,0.36
+Santa Cruz Biotechnology,sc-133225,Q99P98,Hdac5,Rat,38.0,0.36
+Santa Cruz Biotechnology,sc-133225,B7ZDF6,Hdac5,Mouse,31.0,0.24
+Santa Cruz Biotechnology,sc-133225,K7EJL6,HDAC5,Human,27.0,0.16
+Santa Cruz Biotechnology,sc-133225,D6RH93,Hdac5,Mouse,26.0,0.15
+Santa Cruz Biotechnology,sc-133225,K7ES01,HDAC5,Human,25.0,0.13
+Santa Cruz Biotechnology,sc-133225,K7EJZ7,HDAC5,Human,18.0,0.0
+Santa Cruz Biotechnology,sc-28377,E9PIN3,NXF1,Human,120.0,1.0
+Santa Cruz Biotechnology,sc-28377,F1MA52,Nxf1,Rat,110.0,0.89
+Santa Cruz Biotechnology,sc-28377,O88984,Nxf1,Rat,109.0,0.88
+Santa Cruz Biotechnology,sc-28377,Q99JX7,Nxf1,Mouse,108.0,0.87
+Santa Cruz Biotechnology,sc-28377,V9GXF3,Nxf1,Mouse,106.0,0.85
+Santa Cruz Biotechnology,sc-28377,Q1RMS5,NXF1,Bovine,105.0,0.84
+Santa Cruz Biotechnology,sc-28377,F1Q7H6,nxf1,Zebrafish,90.0,0.68
+Santa Cruz Biotechnology,sc-28377,Q6DRE0,nxf1,Zebrafish,80.0,0.57
+Santa Cruz Biotechnology,sc-28377,E9PQA4,NXF1,Human,74.0,0.51
+Santa Cruz Biotechnology,sc-28377,Q5CZT0,nxf1,Zebrafish,70.0,0.46
+Santa Cruz Biotechnology,sc-28377,V9GX96,Nxf1,Mouse,62.0,0.38
+Santa Cruz Biotechnology,sc-28377,E9PLA7,NXF1,Human,60.0,0.35
+Santa Cruz Biotechnology,sc-28377,E9PMV7,NXF1,Human,60.0,0.35
+Santa Cruz Biotechnology,sc-28377,V9GXW3,Nxf1,Mouse,60.0,0.35
+Santa Cruz Biotechnology,sc-28377,B4E227,NXF1,Human,53.0,0.28
+Santa Cruz Biotechnology,sc-28377,H0YDU0,NXF1,Human,38.0,0.12
+Santa Cruz Biotechnology,sc-28377,V9GXM5,Nxf1,Mouse,31.0,0.04
+Santa Cruz Biotechnology,sc-28377,V9GXC8,Nxf1,Mouse,29.0,0.02
+Santa Cruz Biotechnology,sc-28377,A0A024R5A9,NXF1,Human,27.0,0.0
+Santa Cruz Biotechnology,sc-32770,A0A0D9SGJ6,SYNJ1,Human,131.0,1.0
+Santa Cruz Biotechnology,sc-32770,B9EGN3,SYNJ1,Human,131.0,1.0
+Santa Cruz Biotechnology,sc-32770,C9JFZ1,SYNJ1,Human,131.0,1.0
+Santa Cruz Biotechnology,sc-32770,J3KPK1,SYNJ1,Human,131.0,1.0
+Santa Cruz Biotechnology,sc-32770,J3KQV8,SYNJ1,Human,131.0,1.0
+Santa Cruz Biotechnology,sc-32770,H7BZC2,SYNJ1,Human,129.0,0.98
+Santa Cruz Biotechnology,sc-32770,Q1ZYQ4,SYNJ1,Human,124.0,0.91
+Santa Cruz Biotechnology,sc-32770,D3Z656,Synj1,Mouse,124.0,0.91
+Santa Cruz Biotechnology,sc-32770,Q62910,Synj1,Rat,124.0,0.91
+Santa Cruz Biotechnology,sc-32770,E9Q7S0,Synj1,Mouse,122.0,0.89
+Santa Cruz Biotechnology,sc-32770,F7BQW7,Synj1,Mouse,122.0,0.89
+Santa Cruz Biotechnology,sc-32770,D4ABN3,Synj1,Rat,121.0,0.88
+Santa Cruz Biotechnology,sc-32770,E7FFE3,synj1,Zebrafish,120.0,0.86
+Santa Cruz Biotechnology,sc-32770,F1MC12,SYNJ1,Bovine,120.0,0.86
+Santa Cruz Biotechnology,sc-32770,O18964,SYNJ1,Bovine,119.0,0.85
+Santa Cruz Biotechnology,sc-32770,E9QHF3,synj1,Zebrafish,118.0,0.84
+Santa Cruz Biotechnology,sc-32770,Q5XUX5,synj1,Zebrafish,118.0,0.84
+Santa Cruz Biotechnology,sc-32770,E1BD68,SYNJ1,Bovine,116.0,0.81
+Santa Cruz Biotechnology,sc-32770,F7CD11,Synj1,Mouse,107.0,0.7
+Santa Cruz Biotechnology,sc-32770,H7BZ56,SYNJ1,Human,106.0,0.69
+Santa Cruz Biotechnology,sc-32770,D3Z1M7,Synj1,Mouse,89.0,0.48
+Santa Cruz Biotechnology,sc-32770,C9JW66,SYNJ1,Human,88.0,0.47
+Santa Cruz Biotechnology,sc-32770,Q05CZ1,SYNJ1,Human,88.0,0.47
+Santa Cruz Biotechnology,sc-32770,F6VSS8,Synj1,Mouse,79.0,0.36
+Santa Cruz Biotechnology,sc-32770,F6XIX0,Synj1,Mouse,63.0,0.16
+Santa Cruz Biotechnology,sc-32770,C9J1Z6,SYNJ1,Human,50.0,0.0
+Santa Cruz Biotechnology,sc-376568,F1MPI1,NPHS1,Bovine,274.0,1.0
+Santa Cruz Biotechnology,sc-376568,Q9R044,Nphs1,Rat,254.0,0.92
+Santa Cruz Biotechnology,sc-376568,Q9QZS7,Nphs1,Mouse,253.0,0.91
+Santa Cruz Biotechnology,sc-376568,A0A140TAG4,Nphs1,Rat,253.0,0.91
+Santa Cruz Biotechnology,sc-376568,F1Q8Y5,nphs1,Zebrafish,213.0,0.74
+Santa Cruz Biotechnology,sc-376568,Q1KMS5,nphs1,Zebrafish,213.0,0.74
+Santa Cruz Biotechnology,sc-376568,F8W3X9,nphs1,Zebrafish,200.0,0.69
+Santa Cruz Biotechnology,sc-376568,A0A1B2JLU5,NPHS1,Human,68.0,0.14
+Santa Cruz Biotechnology,sc-376568,A0A125S6H5,NPHS1,Human,48.0,0.05
+Santa Cruz Biotechnology,sc-376568,F6RCI4,Nphs1,Mouse,46.0,0.05
+Santa Cruz Biotechnology,sc-376568,A0A125S6H6,NPHS1,Human,39.0,0.02
+Santa Cruz Biotechnology,sc-376568,A0A125S6H7,NPHS1,Human,35.0,0.0
+Sigma-Aldrich,APREST76722,A0A024R989,RGS13,Human,25.0,1.0
+Sigma-Aldrich,APREST76722,Q8K443,Rgs13,Mouse,22.0,0.67
+Sigma-Aldrich,APREST76722,D3ZCS1,Rgs13,Rat,21.0,0.56
+Sigma-Aldrich,APREST76722,A3KP92,rgs13,Zebrafish,18.0,0.22
+Sigma-Aldrich,APREST76722,A5WW80,rgs13,Zebrafish,18.0,0.22
+Sigma-Aldrich,APREST76722,Q0II81,RGS13,Bovine,16.0,0.0
+Sigma-Aldrich,APREST77215,A0A0R4J1A1,Chml,Mouse,25.0,1.0
+Sigma-Aldrich,APREST77215,Q9QZD5,Chml,Mouse,25.0,1.0
+Sigma-Aldrich,APREST77215,F1N2I0,CHML,Bovine,25.0,1.0
+Sigma-Aldrich,APREST77215,A0A1B0GS21,Chml,Mouse,22.0,0.73
+Sigma-Aldrich,APREST77215,A0A1B0GR39,Chml,Mouse,17.0,0.27
+Sigma-Aldrich,APREST77215,A0A1B0GT93,Chml,Mouse,17.0,0.27
+Sigma-Aldrich,APREST77215,A0A1B0GVA4,CHML,Human,15.0,0.09
+Sigma-Aldrich,APREST77215,A0A1B0GVX9,CHML,Human,15.0,0.09
+Sigma-Aldrich,APREST77215,A0A1B0GUK6,CHML,Human,14.0,0.0
+Sigma-Aldrich,HPA018024,E1BGG0,LYSMD3,Bovine,25.0,1.0
+Sigma-Aldrich,HPA018024,A0A2C9F2A6,Lysmd3,Mouse,15.0,0.41
+Sigma-Aldrich,HPA018024,A0A286YCK3,Lysmd3,Mouse,13.0,0.29
+Sigma-Aldrich,HPA018024,A0A286YCE3,Lysmd3,Mouse,8.0,0.0
+Sigma-Aldrich,HPA058064,E1BNK9,FAM219B,Bovine,24.0,
+Sigma-Aldrich,HPA059577,F1MD20,TTC7B,Bovine,25.0,
+Sigma-Aldrich,HPA059577,G3MZS6,TTC7B,Bovine,25.0,
+Sigma-Aldrich,HPA059577,G3N047,TTC7B,Bovine,25.0,
+Sigma-Aldrich,SAB1403195,F1N594,RSPH14,Bovine,25.0,1.0
+Sigma-Aldrich,SAB1403195,E9PWZ8,Rsph14,Mouse,24.0,0.8
+Sigma-Aldrich,SAB1403195,Q9D3W1,Rsph14,Mouse,24.0,0.8
+Sigma-Aldrich,SAB1403195,A0A0G2K0V7,Rsph14,Rat,24.0,0.8
+Sigma-Aldrich,SAB1403195,E0CXH7,Rsph14,Mouse,23.0,0.6
+Sigma-Aldrich,SAB1403195,B8JJ19,rsph14,Zebrafish,23.0,0.6
+Sigma-Aldrich,SAB1403195,Q566V5,rsph14,Zebrafish,23.0,0.6
+Sigma-Aldrich,SAB1403195,X1WD12,rsph14,Zebrafish,23.0,0.6
+Sigma-Aldrich,SAB1403195,B8JJ18,rsph14,Zebrafish,22.0,0.4
+Sigma-Aldrich,SAB1403195,E0CYZ0,Rsph14,Mouse,21.0,0.2
+Sigma-Aldrich,SAB1403195,E9Q6E1,Rsph14,Mouse,21.0,0.2
+Sigma-Aldrich,SAB1403195,Q8C5U7,Rsph14,Mouse,21.0,0.2
+Sigma-Aldrich,SAB1403195,B1WC99,Rsph14,Rat,20.0,0.0
+Sigma-Aldrich,SAB1405844,E1BBP1,GALNT3,Bovine,25.0,
+Sigma-Aldrich,SAB1406044,G3MXW7,IRF6,Bovine,25.0,
+Sigma-Aldrich,SAB1406044,Q08DD6,IRF6,Bovine,25.0,
+Sigma-Aldrich,SAB1412436,Q29RS8,FLI1,Bovine,25.0,1.0
+Sigma-Aldrich,SAB1412436,F1MGF9,FLI1,Bovine,24.0,0.0
+Sigma-Aldrich,SAB2501383,G5E6N8,SYT2,Bovine,14.0,
+Sigma-Aldrich,WH0005100M1,F1MEC8,PCDH8,Bovine,25.0,
+Sigma-Aldrich,WH0064324M5,A0A286YE36,Nsd1,Mouse,25.0,1.0
+Sigma-Aldrich,WH0064324M5,E1BM66,NSD1,Bovine,25.0,1.0
+Sigma-Aldrich,WH0064324M5,A0A286YDN7,Nsd1,Mouse,21.0,0.5
+Sigma-Aldrich,WH0064324M5,A0A286YDS9,Nsd1,Mouse,17.0,0.0
+St John's Labs,STJ91505,Q5VWC4,PSMD4,Human,80.0,1.0
+St John's Labs,STJ91505,O35226,Psmd4,Mouse,80.0,1.0
+St John's Labs,STJ91505,Q3ULG4,Psmd4,Mouse,80.0,1.0
+St John's Labs,STJ91505,O88321,Psmd4,Rat,80.0,1.0
+St John's Labs,STJ91505,Q9ESH1,Psmd4,Rat,80.0,1.0
+St John's Labs,STJ91505,Q58D01,PSMD4,Bovine,80.0,1.0
+St John's Labs,STJ91505,Q58D76,PSMD4,Bovine,80.0,1.0
+St John's Labs,STJ91505,Q58DA0,PSMD4,Bovine,80.0,1.0
+St John's Labs,STJ91505,Q0V8N4,PSMD4,Bovine,77.0,0.95
+St John's Labs,STJ91505,Q9CY29,Psmd4,Mouse,74.0,0.9
+St John's Labs,STJ91505,A6PVX3,PSMD4,Human,65.0,0.75
+St John's Labs,STJ91505,H0Y3Y9,PSMD4,Human,39.0,0.33
+St John's Labs,STJ91505,F7AI87,Psmd4,Mouse,39.0,0.33
+St John's Labs,STJ91505,H0Y561,PSMD4,Human,25.0,0.1
+St John's Labs,STJ91505,H7C2J9,PSMD4,Human,19.0,0.0
+Thermo Fisher Scientific,PA5-23166,Q6NX90,map1lc3a,Zebrafish,14.0,
+Thermo Fisher Scientific,PA5-23166,Q2HJ23,MAP1LC3A,Bovine,14.0,
+Thermo Fisher Scientific,PA5-25007,K7ELN1,UBXN6,Human,29.0,1.0
+Thermo Fisher Scientific,PA5-25007,K7EP32,UBXN6,Human,29.0,1.0
+Thermo Fisher Scientific,PA5-25007,A0A0G2K012,Ubxn6,Rat,29.0,1.0
+Thermo Fisher Scientific,PA5-25007,F1MES6,UBXN6,Bovine,29.0,1.0
+Thermo Fisher Scientific,PA5-25007,Q2KIJ6,UBXN6,Bovine,29.0,1.0
+Thermo Fisher Scientific,PA5-25007,M0RAE4,Ubxn6,Rat,28.0,0.91
+Thermo Fisher Scientific,PA5-25007,Q6KAM0,Ubxn6,Mouse,27.0,0.82
+Thermo Fisher Scientific,PA5-25007,Q1LYI0,ubxn6,Zebrafish,27.0,0.82
+Thermo Fisher Scientific,PA5-25007,Q7SXA8,ubxn6,Zebrafish,27.0,0.82
+Thermo Fisher Scientific,PA5-25007,B8JJA4,Ubxn6,Mouse,20.0,0.18
+Thermo Fisher Scientific,PA5-25007,K7EJ02,UBXN6,Human,18.0,0.0
+Thermo Fisher Scientific,PA5-47347,K4DID3,Dppa3,Mouse,129.0,1.0
+Thermo Fisher Scientific,PA5-47347,Q6IMK0,Dppa3,Rat,117.0,0.88
+Thermo Fisher Scientific,PA5-47347,Q6W0C5,DPPA3,Human,71.0,0.41
+Thermo Fisher Scientific,PA5-47347,A9Q1J7,DPPA3,Bovine,62.0,0.32
+Thermo Fisher Scientific,PA5-47347,A8D8Q2,DPPA3,Bovine,30.0,0.0
